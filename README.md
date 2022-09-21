@@ -6,6 +6,8 @@ Pegando os 5 produtos disponibilizados em "Oferta do dia" no Mercado Livre.
 
 Com Pandas, criamos um Dataframe ordenado por Produto, Preço, Parcela, e Total parcelado.
 
+<br>
+
 ### ✴️ Exemplo de saída do Dataframe: 
 ```bash
                                             PRODUTOS  PRECOS               PARCELAS  TOTAL_PARCELADO
@@ -15,6 +17,8 @@ Com Pandas, criamos um Dataframe ordenado por Produto, Preço, Parcela, e Total 
 3  Smart Tv 50'' 4k Uhd Android Tv 50pug7406 Philips   2.499   10x R$ 249 sem juros            2.499
 4     Kit Cuecas Box Boxer 10 Peças Original Atacado      86               12x R$ 8               96
 ```
+
+<br>
 
 ### 📑 Tecnologias usadas:
 <table>
@@ -31,6 +35,8 @@ Com Pandas, criamos um Dataframe ordenado por Produto, Preço, Parcela, e Total 
     <td>1.5</td>
   </tr>
 </table>
+
+<br>
 
 ### 🔨 Como executar:
 
@@ -60,6 +66,7 @@ $ pip install -r requirements.txt
 $ python scraping.py
 ```
 ##
+<br>
 
 ❕ Caso o código não funcione, verifique as classes utilizadas para o scraping, sites tendem a mudar e com as mudanças precisamos dar manuntenção em nossos scrapings.
 
