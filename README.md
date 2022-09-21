@@ -2,7 +2,7 @@
 
 Scraping com Python + Beautiful Soup + Requests + Pandas
 
-Pegamos os 5 produtos disponibilizados em "Oferta do dia" no Mercado Livre. 
+Pegando os 5 produtos disponibilizados em "Oferta do dia" no Mercado Livre. 
 
 Com Pandas, criamos um Dataframe ordenado por Produto, Preço, Parcela, e Total parcelado.
 
